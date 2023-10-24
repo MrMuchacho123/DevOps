@@ -1,5 +1,5 @@
 public with sharing class Calculator {
-    public Calculator() {
-
+    public Integer Calculator(Integer a, Integer b) {
+        return a*b;
     }
 }
