@@ -1,4 +1,4 @@
-public with sharing class Calculator {
+public with sharing class CalculatorMaster {
     public Integer Calculator(Integer a, Integer b) {
         return a*b;
     }
